@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15996095,
       "digest": null,
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2025-02-06T05:18:50Z",
       "updated_at": "2025-02-06T05:19:10Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-linux-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 16413184,
       "digest": null,
-      "download_count": 168,
+      "download_count": 169,
       "created_at": "2025-02-06T05:18:52Z",
       "updated_at": "2025-02-06T05:19:06Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-windows-amd64.exe"
