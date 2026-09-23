@@ -4,7 +4,7 @@
 
 Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows.
 
-[![x-cmd/install — netventory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/netventory.svg)](https://x-cmd.com/install/netventory)
+[![x-cmd/install — netventory Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/netventory.svg)](https://x-cmd.com/install/netventory)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **4,692** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 4 | 0 | 0 | 2 | 0 | 30 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 4 | 0 | 0 | 2 | 0 | 30 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for netventory lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:59:40Z._
