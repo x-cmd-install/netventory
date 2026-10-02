@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16110400,
       "digest": null,
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2025-02-06T05:18:50Z",
       "updated_at": "2025-02-06T05:19:10Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15572594,
       "digest": null,
-      "download_count": 141,
+      "download_count": 142,
       "created_at": "2025-02-06T05:18:50Z",
       "updated_at": "2025-02-06T05:19:10Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15996095,
       "digest": null,
-      "download_count": 82,
+      "download_count": 83,
       "created_at": "2025-02-06T05:18:50Z",
       "updated_at": "2025-02-06T05:19:10Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15433013,
       "digest": null,
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2025-02-06T05:18:51Z",
       "updated_at": "2025-02-06T05:19:03Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory-linux-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4720134,
       "digest": null,
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2025-04-21T00:02:22Z",
       "updated_at": "2025-04-21T00:02:23Z",
       "browser_download_url": "https://github.com/RamboRogers/netventory/releases/download/0.4.0n/netventory.mac.zip"
