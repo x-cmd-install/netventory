@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: netventory-git
+  binname: netventory-git
+  visiblename: netventory-git
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: rolling
+  summary: Netventory is a fast single binary network scanning tool with a beautiful gui that runs on Linux, Mac or Windows
+  maintainers:
+    - julianxhokaxhiu@aur
+  licenses:
+    - MIT
